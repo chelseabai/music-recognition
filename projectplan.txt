@@ -28,3 +28,5 @@ Ana's part:
 [16/10/21] [Xinyu] set up git
 [16/10/21] [Ana] project documention
 [16/10/21] [Ana] set up unity project
+
+>> succeeded by kanban project board on git itself; click the projects tab to see
