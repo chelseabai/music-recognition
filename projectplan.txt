@@ -1,0 +1,30 @@
+------------------- 16/10/2021 --------------------
+
+---// User Journey Map //---
+- open app
+- scan/select music
+- magic algorithm
+--- get notes from score
+--- get rhthym from score
+--- generate fingerings
+- virtual hands play back animation of piece
+--- set tempo for different modes of learning
+
+---// Architecture //---
+- server
+- android app
+- developed in unity
+(tbh i have no idea)
+
+---// Work Allocation //---
+
+Xinyu's part:
+- all the backend stuff
+
+Ana's part:
+- unity side of stuff
+
+---// Tasks //---
+[16/10/21] [Xinyu] set up git
+[16/10/21] [Ana] project documention
+[16/10/21] [Ana] set up unity project
