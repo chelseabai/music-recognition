@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AI Keyboard</string>
+    <string name="post">POST</string>
+    <string name="get">GET</string>
+</resources>
